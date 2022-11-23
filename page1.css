@@ -1,0 +1,45 @@
+.h1{
+   text-align: center;
+   font-size:60px;
+  
+}
+.p{
+   text-align:center;
+   font-size: 30px;
+}
+.p1{
+   text-align:center;
+   font-size:25px;
+}
+a:hover, a:active {
+   background-color:blue;
+ }
+.text{
+   text-align:center;
+}
+.menu{
+   width: 80%;
+   background-color: white;
+   border: 5px solid rgb(75, 114, 147);
+   border-radius: 25px;
+   margin: top 10px;
+   margin-left:auto;
+   margin-right: auto;
+   padding-top: 5px;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-bottom: 20px;
+   max-width: 350px;
+   margin-top: 10%;
+}
+.button {
+   background-color: rgb(25, 112, 188);
+   border-radius: 15px;
+   color:whitesmoke;
+   padding: 5px 10px;
+   text-align: center;
+   display: inline-block;
+   font-size: 20px;
+   margin: 10px 30px;
+   cursor: pointer;
+}
