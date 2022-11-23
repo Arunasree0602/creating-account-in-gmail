@@ -1,0 +1,39 @@
+
+.h1{
+   font-size: 40px;
+}
+.h2{
+   font-size:30px;
+
+}
+
+.menu{
+   width: 80%;
+   background-color: white;
+   border:5px solid rgb(116, 113, 113);
+   border-radius: 40px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: top 4px;
+   padding-bottom: 20px ;
+   padding-right: 90px;
+   padding-left: 50px;
+   max-width:500px;
+   margin-top: 10%;
+}
+.button {
+   background-color: rgb(25, 112, 188);
+   border: 2px solid black;
+   color:whitesmoke;
+   padding: 5px 10px;
+   text-align: center;
+   display: inline-block;
+   font-size: 20px;
+   margin: 10px 30px;
+   cursor: pointer;
+}
+.img{
+  
+   text-align: left;
+}
+
